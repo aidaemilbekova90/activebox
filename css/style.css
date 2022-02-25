@@ -84,7 +84,7 @@ p {
   flex-direction: column;
   justify-content: center;
   height: 750px;
-  background-image: url(/img/Layer\ 34.jpg);
+  background-image: url(../img/Layer34.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
